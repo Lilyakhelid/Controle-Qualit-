@@ -1,0 +1,46 @@
+venv/
+# Fichiers et dossiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs et bases de données
+*.log
+*.sqlite3
+*.db
+
+# Fichiers de configuration et caches
+*.env
+*.venv
+*.DS_Store
+*.idea/
+*.vscode/
+*.mypy_cache/
+*.pytest_cache/
+
+# Dépendances installées
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Sorties de tests et de build
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+nosetests.xml
+junit.xml
+
+# Sorties de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fichiers temporaires de l'éditeur
+*.swp
+*.swo
+
+# Sorties de compilateurs Cython/C
+*.so
+*.pyd
+*.o
+*.a
+*.dylib
