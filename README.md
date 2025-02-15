@@ -33,7 +33,7 @@ Ce dépôt contient **4 travaux pratiques** liés à la matière de **contrôle 
    pip install -r requirements.txt
    ```
 
-🚀 **Les travaux pratiques et le projet sont réalisés dans le cadre du cours de contrôle statistique.**
+🚀 **Les travaux pratiques et le projet sont réalisés dans le cadre du cours de contrôle qualité de Sorbonne Université.**
 
 
 
