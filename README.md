@@ -1,4 +1,4 @@
-# 📌 Contrôle Statistique & Projet PM2.5 à Vesoul
+# 📌 Contrôle Qualité & Projet PM2.5 à Vesoul
 
 ## 📊 Description
 
