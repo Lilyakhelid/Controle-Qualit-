@@ -2,7 +2,7 @@
 
 ## 📊 Description
 
-Ce dépôt contient **4 travaux pratiques** liés à la matière de **contrôle statistique**, ainsi qu'un **projet indépendant** d'étude sur l'évolution des particules PM2.5 à **Vesoul** sur les **deux dernières années**.
+Ce dépôt contient **4 travaux pratiques** liés à la matière de **contrôle qualité**, ainsi qu'un **projet** d'étude sur l'évolution des particules PM2.5 à **Vesoul** sur les **deux dernières années**.
 
 
 
